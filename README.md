@@ -2,7 +2,7 @@
 
 ## 🧪 Development Status & Planned Improvements
 
-> ⚠️ **Note:** This project is currently under active development. Although it's currently titled **"Real-Time Mesh Render,"** it doesn't yet perform real-time mesh rendering. The system captures 3D point cloud data in real time and saves it to a `.xyz` file, which can then be manually loaded into software like MeshLab for visualization. Real-time rendering and mesh generation features are in progress and will be added in future updates.
+> ⚠️ **Note:** This project is currently under active development. Although it's currently titled **"realtime-mesh-render,"** it doesn't yet perform real-time mesh rendering. The system captures 3D point cloud data in real time and saves it to a `.xyz` file, which can then be manually loaded into software like MeshLab for visualization. Real-time rendering and mesh generation features are in progress and will be added in future updates.
 
 ### 🔧 What’s Coming Next
 
