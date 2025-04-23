@@ -20,11 +20,11 @@ Here are some planned improvements and features currently being worked on:
 This project is a complete room-scanning setup using a stepper motor-based LiDAR mount. It integrates an Arduino with two NEMA 17 stepper motors, a TF Luna LiDAR sensor, and Hall effect sensors for homing. A Python script captures the resulting point cloud data over serial and logs it to an `.xyz` file for later 3D mesh reconstruction.
 <h3>📸 Project Setup</h3>
 
-<img src="https://github.com/user-attachments/assets/360b19e6-1205-460a-95ef-02d8d54842a7" alt="project" width="33%"/>
+<img src="https://raw.githubusercontent.com/ivanf-nz/realtime-mesh-renderer/refs/heads/main/readme_images/lidar_assembly.jpeg" alt="project" width="33%"/>
 
 <h3>🗺️ MeshLab Output</h3>
 
-<img src="https://github.com/user-attachments/assets/b23b5974-6a1a-4ef8-a54d-b2730a22602c" alt="meshlab" width="33%"/>
+<img src="https://raw.githubusercontent.com/ivanf-nz/realtime-mesh-renderer/refs/heads/main/readme_images/meshlab.jpeg" alt="meshlab" width="33%"/>
 
 ---
 
