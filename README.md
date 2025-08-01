@@ -1,4 +1,4 @@
-# 3D Spatial Mapping System
+# LiDAR Room SCanner
 
 ## 🧪 Development Status & Planned Improvements
 
