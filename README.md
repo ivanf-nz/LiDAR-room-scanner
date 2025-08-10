@@ -1,4 +1,4 @@
-# LiDAR Room SCanner
+# LiDAR Room Scanner
 
 ## 🧪 Development Status & Planned Improvements
 
